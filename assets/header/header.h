@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "lista.h"
+#include "coda.h"
+#include "spesa.h"
+#include "driver.h"
+#include "interfaccia.h"
+#include "grafo.h"
