@@ -1,4 +1,4 @@
-# Piattaforma per gestione tamponi Covid-19
+# Piattaforma per gestione consegne su Island
 Per compilare il progetto eseguire il seguente comando:
 
     gcc -o main  assets/source/*.c
